@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 * I am Ibidapo Olatubosun.
 * A brief intro about me:
   - I love computing, which comes in different flavours like Automation, coding, problem-solving, learning new tools & skills, and implementing them to solve different challenges.
-  - 🔭 I’m currently working on architecting solutions on AWS to solve different challeges.
+  - 🔭 I’m currently working on architecting different AWS solutions to solve different business needs and operational challenges.
